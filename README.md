@@ -34,4 +34,5 @@ like a calculator :D
 
 ## What the app looks like
 
-![alt text]()
+![alt text](https://github.com/cengizhankose/react-native-calculator-2021/blob/main/1.png?raw=true)
+![alt text](https://github.com/cengizhankose/react-native-calculator-2021/blob/main/2.png?raw=true)

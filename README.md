@@ -1,6 +1,7 @@
 # React Native Calculator
 
 Calculator made with React Native just for getting use to context api
+desing inspired from [Here](https://dribbble.com/shots/14709020-Calculator/attachments/6408579?mode=media)
 
 ## How to run the app
 
